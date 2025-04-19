@@ -406,7 +406,6 @@ header {
 .modal-overlay {
   width: 100%;
   height: 100%;
-  border: 10px solid #f00;
   color: #fff;
   background: rgba(0, 0, 0, 0.7);
   position: absolute;
@@ -434,7 +433,6 @@ header {
     i {
       font-size: 30px;
       cursor: pointer;
-      border: 4px solid #f00;
     }
   }
   &.active {
